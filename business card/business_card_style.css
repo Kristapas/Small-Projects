@@ -1,0 +1,44 @@
+form, .business-card {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.business-card {
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.business-card span {
+    text-transform: uppercase;
+    color: #cccccc;
+}
+
+form input, form textarea{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+.btn {
+    padding: 12px 30px;
+    border-radius: 4px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+}
